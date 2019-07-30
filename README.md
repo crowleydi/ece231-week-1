@@ -47,7 +47,7 @@ like this:
 
     ./hello > hello.md
   
-Your program should generated a text document (`hello.md`) in markdown format that when viewed will tell me
+Your program would then generate a text document (`hello.md`) in markdown format that when viewed will tell me
 about you. Be creative and try to use as many elements of the markdown language as you can. Try to use
 headings, lists, bold and italic fonts, emoji, etc. Maybe have links to social media profiles. Please include
 at least one image that the document will display. It can be a picture of you, your dog, or whatever you like.
