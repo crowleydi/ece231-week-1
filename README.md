@@ -63,9 +63,9 @@ turn in your completed assignment.
 The following files are required to be added, committed, and pushed to this repository to complete the
 assignment:
 
-    Makefile
-    hello.cpp
-    hello.md
-    picture.jpg
+  1. `Makefile`
+  1. `hello.cpp`
+  1. `hello.md`
+  1. `picture.jpg`
 
 Do not submit any of the compiled binaries.
