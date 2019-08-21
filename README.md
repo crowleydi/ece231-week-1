@@ -41,16 +41,16 @@ your program like this:
 
 You will need to create a `Makefile` for your program. For this first program, it just needs the following lines:
 
-    CXXFLAGS=-g
-    hello: hello.cpp
+    $ CXXFLAGS=-g
+    $ hello: hello.cpp
 
 To compile your progrtam you just run the follwing command:
 
-    make hello
+    $ make hello
 
 Once your program compiles, run it with the following command:
 
-    ./hello > hello.md
+    $ ./hello > hello.md
   
 Your program would then generate a text document (`hello.md`) in markdown format that when viewed will tell me
 about you. Be creative and try to use as many elements of the markdown language as you can. Try to use
@@ -62,9 +62,9 @@ Once your program runs and generates the document to your satisfaction, add the 
 `hello.md` to git, commit it to your local repsoitory, and then push it to your GitHub repository. The push is
 important! That's how you turn in your completed assignment.
 
-    git add Makefile hello.cpp hello.md picture.jpg
-    git commit
-    git push
+    $ git add Makefile hello.cpp hello.md picture.jpg
+    $ git commit
+    $ git push
 
 ### Deliverables
 
