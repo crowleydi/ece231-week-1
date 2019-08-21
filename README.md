@@ -41,8 +41,8 @@ your program like this:
 
 You will need to create a `Makefile` for your program. For this first program, it just needs the following lines:
 
-    $ CXXFLAGS=-g
-    $ hello: hello.cpp
+    CXXFLAGS=-g
+    hello: hello.cpp
 
 To compile your progrtam you just run the follwing command:
 
